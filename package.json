@@ -1,0 +1,12 @@
+{
+    "name": "node-red-flows",
+    "description": "Node reds flow for anything and everything including ping test, telegram bot, tracking",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_gbth.json",
+            "credentialsFile": "flows_gbth_cred.json"
+        }
+    }
+}
